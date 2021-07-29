@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+/* header-nav */
+header{
+    font-family: 'Poppins', sans-serif;
+    background-color: #264653;
+}
+
+.login-button{
+    background-image: linear-gradient(#E76F51,tomato);
+    color: snow;
+    padding: 10px;
+    width: 91px;
+    height: 44px;
+    border-radius: 5px;
+}
+
+.purchase-button{
+    color: snow;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    padding: 9px 25px;
+    border-radius: 8px;
+    border: none;
+    text-decoration: none;
+}
+
+/* main-part */
+
+/* bike section */
+.first-img{
+    filter: grayscale(100%);
+}
+
+/* latest-news */
+.read-more-button{
+    color: snow;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(223, 30, 126), #cc63a9);
+    padding: 9px 25px;
+}
+
+/* happy clients-says */
+.clients-says{
+    color: tomato;
+    font-weight: 700;
+}
+.fa-star{
+    color: tomato;
+}
+
+/* frequently asked questions */
+.faq-image{
+    width: 431.2px;
+    height: 423.5px;
+   left: 157px;
+   top: 3173px;
+}
+
+.accordion{
+    width: 552px;
+   height: 203px;
+  left: 730px;
+  top: 3164px;
+}
+
+/* choose bikes */
+.choose-bikes{
+    font-weight: 700;
+    color: navy;
+}
+.fa-motorcycle{
+    font-size: 50px;
+    color: darkslategrey;
+}
+.more-details-button{
+    text-decoration: none;
+    background-image: linear-gradient(navy,blue);
+    padding: 10px 10px;
+    border-radius: 5px;
+    color: floralwhite;
+}
+
+/* search bikes */
+
+.search{
+    color: gray;
+}
+.mail{
+    width: 421px;
+    height: 68px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+.button{
+    border: none;
+    background-image: linear-gradient(orange,tomato);
+    border-radius: 8px;
+    padding: 10px 10px;
+    margin: 0px 10px;
+    width: 180px;
+    height: 68px;
+}
+
+/* footer */
+.footer-background{
+    background-color: black;
+}
+
+.all-features{
+    color: white;
+    justify-content: space-between;
+}
+.fa-apple{
+    color: lightgreen;
+}
+
+.fa-google-play{
+    color: turquoise;
+}
